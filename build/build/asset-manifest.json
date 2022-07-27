@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/www.jaishreesairam.co.in/static/css/main.8c3f7a00.css",
+    "main.js": "/www.jaishreesairam.co.in/static/js/main.b838520c.js",
+    "static/js/787.e8c532c6.chunk.js": "/www.jaishreesairam.co.in/static/js/787.e8c532c6.chunk.js",
+    "index.html": "/www.jaishreesairam.co.in/index.html",
+    "main.8c3f7a00.css.map": "/www.jaishreesairam.co.in/static/css/main.8c3f7a00.css.map",
+    "main.b838520c.js.map": "/www.jaishreesairam.co.in/static/js/main.b838520c.js.map",
+    "787.e8c532c6.chunk.js.map": "/www.jaishreesairam.co.in/static/js/787.e8c532c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3f7a00.css",
+    "static/js/main.b838520c.js"
+  ]
+}
